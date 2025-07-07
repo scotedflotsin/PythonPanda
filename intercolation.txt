@@ -1,0 +1,24 @@
+use to fill estimated value
+
+12,
+34,
+56,
+65,
+23,
+76,
+87
+
+
+1000
+2000
+3000
+4000
+Estimated value will be there
+6000
+linear
+
+
+
+1- Preserve data integrity
+2- smooth trends
+3- Avoid data loss
